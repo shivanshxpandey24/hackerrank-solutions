@@ -1,0 +1,25 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
+# Problem     Alphabet Rangoli
+# Difficulty  Easy
+# Subdomain   Strings
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-09-27, 05:25 p.m.
+# ──────────────────────────────────────────────────
+
+def print_rangoli(size):
+    chars = [chr(97 + i) for i in range(size)]
+    width = 4 * size - 3
+    lines = []
+    
+    for i in range(size):
+        # Slice from outer letter inwards
+        row_chars = chars[size - 1 : size - 1 - i : -1] + chars[size - 1 - i : size]
+        lines.append('-'.join(row_chars).center(width, '-'))
+        
+    # Full pattern: top rows + bottom half (mirror of top rows except center)
+    result = '\n'.join(lines + lines[-2::-1])
+    print(result)
+
