@@ -1,0 +1,17 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true
+# Problem     Capitalize!
+# Difficulty  Easy
+# Subdomain   Strings
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-09-27, 05:32 p.m.
+# ──────────────────────────────────────────────────
+
+
+
+# Complete the solve function below.
+def solve(s):
+    return ' '.join(word.capitalize() for word in s.split(' '))
+
