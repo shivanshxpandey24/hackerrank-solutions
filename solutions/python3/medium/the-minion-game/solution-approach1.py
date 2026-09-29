@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-09-29, 09:35 p.m.
+# Submitted   2026-09-29, 09:38 p.m.
 # ──────────────────────────────────────────────────
 
 def minion_game(string):
