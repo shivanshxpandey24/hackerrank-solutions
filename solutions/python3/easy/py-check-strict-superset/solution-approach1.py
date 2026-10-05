@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+ ## ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true
 # Problem     Check Strict Superset
 # Difficulty  Easy
