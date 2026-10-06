@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-06, 01:42 p.m.
+# Submitted   2026-10-06, 01:43 p.m.
 # ──────────────────────────────────────────────────
 
 import cmath
