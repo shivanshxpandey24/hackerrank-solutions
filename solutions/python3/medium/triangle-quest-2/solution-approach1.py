@@ -1,0 +1,17 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true
+# Problem     Triangle Quest 2
+# Difficulty  Medium
+# Subdomain   Math
+# Platform    HackerRank
+# Language    python3
+# Status      Accepted
+# Submitted   2026-10-07, 01:38 p.m.
+# ──────────────────────────────────────────────────
+
+
+
+
+
+for i in range(1,int(input())+1): #More than 2 lines will result in 0 score. Do not leave a blank line also
+    print(((10**i - 1) // 9) ** 2)
