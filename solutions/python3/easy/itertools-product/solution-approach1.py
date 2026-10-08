@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+##### ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
 # Problem     itertools.product()
 # Difficulty  Easy
