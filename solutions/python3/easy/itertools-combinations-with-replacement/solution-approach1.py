@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-09, 11:46 p.m.
+# Submitted   2026-10-09, 11:46 p.m..............
 # ──────────────────────────────────────────────────
 
 from itertools import combinations_with_replacement
