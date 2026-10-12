@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+################ ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true
 # Problem     itertools.permutations()
 # Difficulty  Easy
