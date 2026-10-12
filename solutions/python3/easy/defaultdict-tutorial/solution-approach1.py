@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+#### ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true
 # Problem     DefaultDict Tutorial
 # Difficulty  Easy
