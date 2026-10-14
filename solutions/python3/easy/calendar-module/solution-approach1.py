@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-14, 11:45 p.m.
+# Submitted   2026-10-14, 11:49 p.m.
 # ──────────────────────────────────────────────────
 
 import calendar
