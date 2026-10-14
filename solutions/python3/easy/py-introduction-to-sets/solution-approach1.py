@@ -5,7 +5,7 @@
 # Subdomain   Sets
 # Platform    HackerRank
 # Language    python3
-# Status      Accepted
+# Status      Accepteddddddddddddd
 # Submitted   2026-09-30, 10:10 p.m.
 # ──────────────────────────────────────────────────
 
