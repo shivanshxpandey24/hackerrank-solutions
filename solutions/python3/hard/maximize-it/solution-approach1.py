@@ -3,7 +3,7 @@
 # Problem     Maximize It!
 # Difficulty  Hard
 # Subdomain   Itertools
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkk
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-10, 11:53 p.m.
