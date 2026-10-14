@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+###### ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
 # Problem     Text Alignment
 # Difficulty  Easy
