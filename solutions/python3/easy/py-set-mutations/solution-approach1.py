@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true
 # Problem     Set Mutations
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyy
 # Subdomain   Sets
 # Platform    HackerRank
 # Language    python3
