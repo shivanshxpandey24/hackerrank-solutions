@@ -1,6 +1,6 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
-# Problem     Tuples 
+# Problem     Tuples sssssssssss
 # Difficulty  Easy
 # Subdomain   Basic Data Types
 # Platform    HackerRank
