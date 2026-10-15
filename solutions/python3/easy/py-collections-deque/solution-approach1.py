@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-15, 11:44 p.m.
+# Submitted   2026-10-15, 11:45 p.m.
 # ──────────────────────────────────────────────────
 
 from collections import deque
