@@ -1,4 +1,4 @@
-# ──────────────────────────────────────────────────
+######## ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true
 # Problem     Word Order
 # Difficulty  Medium
