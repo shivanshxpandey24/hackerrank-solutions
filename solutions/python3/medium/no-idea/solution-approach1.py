@@ -4,7 +4,7 @@
 # Difficulty  Medium
 # Subdomain   Sets
 # Platform    HackerRank
-# Language    python3
+# Language    python333333333333
 # Status      Accepted
 # Submitted   2026-10-01, 11:28 p.m.
 # ──────────────────────────────────────────────────
