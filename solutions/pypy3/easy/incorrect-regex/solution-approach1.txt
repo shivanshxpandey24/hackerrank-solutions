@@ -1,0 +1,26 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true
+# Problem     Incorrect Regex
+# Difficulty  Easy
+# Subdomain   Errors and Exceptions
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-10-17, 10:01 p.m.
+# ──────────────────────────────────────────────────
+
+import re
+
+if __name__ == '__main__':
+    t = int(input())
+    for _ in range(t):
+        s = input()
+        # HackerRank considers consecutive quantifier patterns invalid
+        if any(bad in s for bad in ('*+', '++', '+*', '?+')):
+            print(False)
+            continue
+        try:
+            re.compile(s)
+            print(True)
+        except re.error:
+            print(False)
