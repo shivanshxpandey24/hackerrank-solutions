@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
 # Problem     List Comprehensions
 # Difficulty  Easy
-# Subdomain   Basic Data Types
+# Subdomain   Basic Data Typesssssssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
