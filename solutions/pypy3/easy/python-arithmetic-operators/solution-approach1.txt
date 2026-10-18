@@ -3,7 +3,7 @@
 # Problem     Arithmetic Operators
 # Difficulty  Easy
 # Subdomain   Introduction
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-18, 01:38 a.m.
