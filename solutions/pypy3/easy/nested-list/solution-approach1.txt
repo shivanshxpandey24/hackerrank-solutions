@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
 # Problem     Nested Lists
 # Difficulty  Easy
-# Subdomain   Basic Data Types
+# Subdomain   Basic Data Typesssssssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
