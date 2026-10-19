@@ -3,7 +3,7 @@
 # Problem     Capitalize!
 # Difficulty  Easy
 # Subdomain   Strings
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-27, 05:32 p.m..
