@@ -3,7 +3,7 @@
 # Problem     Incorrect Regex
 # Difficulty  Easy
 # Subdomain   Errors and Exceptions
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-10-17, 10:01 p.m.
