@@ -3,7 +3,7 @@
 # Problem     Print Function
 # Difficulty  Easy
 # Subdomain   Introduction
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-18, 10:10 p.m.
