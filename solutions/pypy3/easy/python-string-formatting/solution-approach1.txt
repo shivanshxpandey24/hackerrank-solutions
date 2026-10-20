@@ -3,7 +3,7 @@
 # Problem     String Formatting
 # Difficulty  Easy
 # Subdomain   Strings
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-27, 05:12 p.m.
