@@ -1,0 +1,40 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true
+# Problem     Piling Up!
+# Difficulty  Medium
+# Subdomain   Collections
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-10-20, 07:40 p.m.
+# ──────────────────────────────────────────────────
+
+from collections import deque
+
+def can_stack_cubes():
+    t = int(input())
+    for _ in range(t):
+        n = int(input())
+        d = deque(map(int, input().split()))
+        
+        last = float('inf')
+        possible = True
+        
+        while d:
+            # Pick the larger of the two ends
+            if d[0] >= d[-1]:
+                chosen = d.popleft()
+            else:
+                chosen = d.pop()
+            
+            # The chosen cube must be <= the previously placed base cube
+            if chosen > last:
+                possible = False
+                break
+            
+            last = chosen
+            
+        print("Yes" if possible else "No")
+
+if __name__ == '__main__':
+    can_stack_cubes()
