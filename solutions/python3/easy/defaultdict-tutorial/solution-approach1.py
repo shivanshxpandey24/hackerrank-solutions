@@ -7,7 +7,7 @@
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-12, 12:00 a.m.
-# ──────────────────────────────────────────────────
+# ──────────────────────────────────────────────────---------------------
 
 from collections import defaultdict
 
