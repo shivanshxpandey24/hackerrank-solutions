@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true
 # Problem     Calendar Module
 # Difficulty  Easy
-# Subdomainn   Date and Time
+# Subdomainn   Date and Timeeeeeeeeee
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
