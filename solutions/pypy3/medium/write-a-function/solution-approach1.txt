@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 # Problem     Write a function
-# Difficulty  Medium
+# Difficulty  Mediummmmmmmmmmmmmmmmmmm
 # Subdomain   Introductionnnnnnnnnnnn
 # Platform    HackerRank
 # Language    pypy3
