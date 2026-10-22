@@ -1,6 +1,6 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true
-# Problem     Piling Up!!!!!!!!!!!!!!!!!!!1
+# Problem     Piling Up!!!!!!!!!!!!!!!!!!!
 # Difficulty  Medium
 # Subdomain   Collections
 # Platform    HackerRank
