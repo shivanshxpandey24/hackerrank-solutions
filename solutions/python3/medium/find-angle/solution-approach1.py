@@ -3,7 +3,7 @@
 # Problem     Find Angle MBC
 # Difficulty  Medium
 # Subdomain   Math
-# Platform    HackerRank
+# Platform    HackerRankkkkkkk
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-06, 01:43 p.m.
