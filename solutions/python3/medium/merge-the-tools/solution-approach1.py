@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true
 # Problem     Merge the Tools!
-# Difficulty  Medium
+# Difficulty  Mediummmmmmmmmm
 # Subdomain   Strings
 # Platform    HackerRank
 # Language    python3
