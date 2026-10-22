@@ -5,7 +5,7 @@
 # Subdomain   Itertools
 # Platform    HackerRank
 # Language    python3
-# Status      Accepted
+# Status      Accepteddddddd
 # Submitted   2026-10-10, 11:50 p.m.
 # ──────────────────────────────────────────────────
 
