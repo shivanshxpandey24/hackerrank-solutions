@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-10, 11:51 p.m.
+# Submitted   2026-10-10, 11:51 p.m.........
 # ──────────────────────────────────────────────────
 
 from itertools import combinations
