@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true
 # Problem     collections.Counter()
 # Difficulty  Easy
-# Subdomain   Collections
+# Subdomain   Collectionssssssssssssss
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
