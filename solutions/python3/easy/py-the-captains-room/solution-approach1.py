@@ -3,7 +3,7 @@
 # Problem     The Captain's Room 
 # Difficulty  Easy
 # Subdomain   Sets
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkk
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-05, 11:54 p.m.
