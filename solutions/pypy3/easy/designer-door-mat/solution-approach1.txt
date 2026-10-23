@@ -3,7 +3,7 @@
 # Problem     Designer Door Mat
 # Difficulty  Easy
 # Subdomain   Strings
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-25, 10:06 p.m..........
