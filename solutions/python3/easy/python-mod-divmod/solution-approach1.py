@@ -1,6 +1,6 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true
-# Problem     Mod Divmod
+# Problem     Mod Divmodddddddd
 # Difficulty  Easy
 # Subdomain   Math
 # Platform    HackerRank
