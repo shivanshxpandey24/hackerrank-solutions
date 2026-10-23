@@ -3,7 +3,7 @@
 # Problem     Power - Mod Power
 # Difficulty  Easy
 # Subdomain   Math
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkk
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-07, 02:59 p.m.
