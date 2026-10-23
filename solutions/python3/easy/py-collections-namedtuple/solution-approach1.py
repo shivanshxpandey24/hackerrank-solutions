@@ -7,7 +7,7 @@
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-14, 11:56 p.m.
-# ──────────────────────────────────────────────────
+# ──────────────────────────────────────────────────-----------------------
 
 from collections import namedtuple
 
