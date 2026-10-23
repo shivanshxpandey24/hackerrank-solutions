@@ -4,7 +4,7 @@
 # Difficulty  Easy
 # Subdomain   Basic Data Types
 # Platform    HackerRank
-# Language    python
+# Language    pythonnnnnnnnnn
 # Status      Accepted
 # Submitted   2026-10-13, 11:45 p.m.
 # ──────────────────────────────────────────────────
