@@ -5,7 +5,7 @@
 # Subdomain   Strings
 # Platform    HackerRank
 # Language    pypy3
-# Status      Accepted
+# Status      Accepteddddddddddddddddd
 # Submitted   2026-09-25, 09:48 p.m.
 # ──────────────────────────────────────────────────
 
