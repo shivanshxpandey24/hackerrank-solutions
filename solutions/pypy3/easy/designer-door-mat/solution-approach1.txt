@@ -1,6 +1,6 @@
 # ##########──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
-# Problem     Designer Door Mat
+# Problem     Designer Door Matttttttttt
 # Difficulty  Easy
 # Subdomain   Strings
 # Platform    HackerRankkkkkkkkkkkkkkkk
