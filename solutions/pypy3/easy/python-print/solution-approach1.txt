@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
 # Problem     Print Function
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyy
 # Subdomain   Introduction
 # Platform    HackerRankkkkkkkkkkkkkk
 # Language    pypy3
