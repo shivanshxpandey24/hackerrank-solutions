@@ -1,6 +1,6 @@
 ##### ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
-# Problem     itertools.product()
+# Problem     itertools.product()()()()(()(()()()()(
 # Difficulty  Easy
 # Subdomain   Itertools
 # Platform    HackerRank
