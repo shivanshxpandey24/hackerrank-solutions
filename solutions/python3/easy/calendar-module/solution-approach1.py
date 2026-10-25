@@ -3,7 +3,7 @@
 # Problem     Calendar Module
 # Difficulty  Easy
 # Subdomainn   Date and Timeeeeeeeeee
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkkkk
 # Language    python3
 # Status      Accepted
 # Submitted   2026-10-14, 11:49 p.m.
