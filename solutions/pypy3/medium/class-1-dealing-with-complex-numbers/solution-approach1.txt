@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true
 # Problem     Classes: Dealing with Complex Numbers
 # Difficulty  Medium
-# Subdomain   Classes
+# Subdomain   Classessssssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
