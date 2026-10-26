@@ -3,7 +3,7 @@
 # Problem     String Validators
 # Difficulty  Easy
 # Subdomain   Strings
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-24, 10:09 p.m.
