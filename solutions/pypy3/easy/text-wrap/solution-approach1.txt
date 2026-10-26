@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true
 # Problem     Text Wrap
 # Difficulty  Easy
-# Subdomain   Strings
+# Subdomain   Stringssssssssssssssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepteddddddddddddddddd
