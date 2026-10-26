@@ -3,7 +3,7 @@
 # Problem     Say "Hello, World!" With Python
 # Difficulty  Easy
 # Subdomain   Introduction
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-18, 01:39 a.m.
