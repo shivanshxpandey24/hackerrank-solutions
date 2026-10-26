@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 # Problem     Python: Division
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyyyyyyyyyyyyyyyy
 # Subdomain   Introductionnnnnnnnnnn
 # Platform    HackerRank
 # Language    pypy3
