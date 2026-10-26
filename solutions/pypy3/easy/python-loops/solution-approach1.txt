@@ -3,7 +3,7 @@
 # Problem     Loops
 # Difficulty  Easyyyyyyyyyyyy
 # Subdomain   Introduction
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-18, 01:36 a.m.
