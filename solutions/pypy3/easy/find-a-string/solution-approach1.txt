@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
 # Problem     Find a string
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyyyyyyy
 # Subdomain   Strings
 # Platform    HackerRank...............
 # Language    pypy3
