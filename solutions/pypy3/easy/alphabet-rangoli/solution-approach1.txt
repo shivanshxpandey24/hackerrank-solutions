@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
 # Problem     Alphabet Rangoli
 # Difficulty  Easy
-# Subdomain   Strings
+# Subdomain   Stringsssssssssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
