@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
 # Problem     Mutations
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyyyyyyyyy
 # Subdomain   Stringsssssssssss
 # Platform    HackerRank
 # Language    pypy3
