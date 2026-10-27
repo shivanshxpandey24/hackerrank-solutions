@@ -3,7 +3,7 @@
 # Problem     Text Wrap
 # Difficulty  Easy
 # Subdomain   Stringssssssssssssssssss
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepteddddddddddddddddd
 # Submitted   2026-09-25, 09:48 p.m.
