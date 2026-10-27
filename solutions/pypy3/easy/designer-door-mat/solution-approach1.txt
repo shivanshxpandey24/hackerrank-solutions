@@ -1,7 +1,7 @@
 # ##########──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
 # Problem     Designer Door Matttttttttt
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyyyyy
 # Subdomain   Strings
 # Platform    HackerRankkkkkkkkkkkkkkkk
 # Language    pypy3
