@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
 # Problem     String Validators
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyyyy
 # Subdomain   Strings
 # Platform    HackerRankkkkkkkkkkkkkkkkkkkk
 # Language    pypy3
