@@ -1,7 +1,7 @@
 # ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 # Problem     Lists
-# Difficulty  Easy
+# Difficulty  Easy2yy
 # Subdomain   Basic Data Typesssssssssssssssss
 # Platform    HackerRankkkkkkkkkk
 # Language    pypy3
