@@ -2,7 +2,7 @@
 # Link        https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true
 # Problem     Class 2 - Find the Torsional Angle
 # Difficulty  Easy
-# Subdomain   Classes
+# Subdomain   Classesssssss
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
