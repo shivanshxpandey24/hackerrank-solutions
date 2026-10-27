@@ -1,7 +1,7 @@
 ########### ──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
 # Problem     List Comprehensions
-# Difficulty  Easy
+# Difficulty  Easyyyyyyyyyyyy
 # Subdomain   Basic Data Typesssssssssss
 # Platform    HackerRank
 # Language    pypy3
