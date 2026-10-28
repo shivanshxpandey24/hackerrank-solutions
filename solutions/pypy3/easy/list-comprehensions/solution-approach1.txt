@@ -3,7 +3,7 @@
 # Problem     List Comprehensions
 # Difficulty  Easyyyyyyyyyyyy
 # Subdomain   Basic Data Typesssssssssss
-# Platform    HackerRank
+# Platform    HackerRankkkkkkkkkkkk
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-20, 10:11 p.m.
