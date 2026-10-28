@@ -1,4 +1,4 @@
-# ##########──────────────────────────────────────────────────
+##########──────────────────────────────────────────────────
 # Link        https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
 # Problem     Designer Door Matttttttttt
 # Difficulty  Easyyyyyyyyyyyyyyy
@@ -7,7 +7,7 @@
 # Language    pypy3
 # Status      Accepted
 # Submitted   2026-09-25, 10:06 p.m..........
-# ──────────────────────────────────────────────────
+# ──────────────────────────────────────────────────-----------------
 
 N, M = map(int, input().split())
 
